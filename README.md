@@ -14,8 +14,6 @@ Hi, I'm Hyde
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 </p>
 
----
-
 ## Technologies
 
 <p>
@@ -24,8 +22,6 @@ Hi, I'm Hyde
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
 </p>
-
----
 
 ## Tools
 
