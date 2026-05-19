@@ -18,7 +18,7 @@ I like to stay curious about what I do.
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 </p>
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hyaxon)](https://github.com/Pranesh-2005/github-readme-stats)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005&layout=compact)
 
 ## Technologies
 
