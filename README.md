@@ -16,7 +16,7 @@ I like to stay curious about what I do.
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </p>
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hyaxon&layout=compact&theme=nord)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hyaxon&layout=compact)
 
 ## Technologies
 
