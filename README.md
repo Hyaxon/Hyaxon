@@ -18,6 +18,8 @@ I like to stay curious about what I do.
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyaxon&layout=compact&theme=tokyonight)
+
 ## Technologies
 
 <p>
